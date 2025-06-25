@@ -1,3 +1,4 @@
 This is the first file.
 create conflict in one
 want to resolve conflict
+I wnat to merge this change using a PR

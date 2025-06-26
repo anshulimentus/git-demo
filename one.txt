@@ -3,4 +3,4 @@ create conflict in one
 want to resolve conflict
 I wnat to merge this change using a PR
 I am testing git diff between working directory and staging area
-sun
+sunday
